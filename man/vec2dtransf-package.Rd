@@ -13,7 +13,7 @@
 \tabular{ll}{
 Package: \tab vec2dtransf\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
+Version: \tab 1.1\cr
 Date: \tab 2012-04-09\cr
 License: \tab GPL (>= 2)\cr
 Depends: \tab sp\cr
@@ -41,7 +41,7 @@ see the effect of the transformation on a given extent.
 }
 \author{
 German Carrillo (\url{http://geotux.tuxfamily.org}) \cr
-Maintainer: German Carrillo <gcarrillo@uni-muenster.de>
+Maintainer: German Carrillo <geotux_tuxman@linuxmail.org>
 }
 \references{
     Iliffe, J. and Lott, R. Datums and map projections: For remote sensing, 

@@ -1,5 +1,5 @@
-348a2bc6acc2aee635ca621ce7f2fbb8 *DESCRIPTION
-6e776bd76479a7656380e66735c276ea *NAMESPACE
+6e1ef7a511e727afa849265145347d56 *DESCRIPTION
+d7191029a74246cb669f7f27eff8df88 *NAMESPACE
 09170810e080ac5a77d4e84f36b5f255 *R/AffineTransformation-methods.R
 a2ef454326e36852c64726470b8fc11e *R/Cartesian2DCoordinateTransformation-methods.R
 20a8d49cf2c21bdde2f36634e9af6e9d *R/Class-AffineTransformation.R
@@ -19,4 +19,4 @@ c7cac2cc72fdf5f6e0bf4463a8876aa4 *man/getRMSE.Rd
 121146b5ffd893076277ab522fa5ae7b *man/getResiduals.Rd
 34d95d5e5fc9c0fc86051c5d29dd4fd7 *man/plotGridTransformation.Rd
 5ed6ae989eab61d6ba61cb122fa90d9c *man/sample_data.Rd
-40ea5c74eadae2acb719870085823d95 *man/vec2dtransf-package.Rd
+b7db65ac21d648e3246f33bc86199dce *man/vec2dtransf-package.Rd
