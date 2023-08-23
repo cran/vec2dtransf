@@ -1,13 +1,13 @@
-7fee40efa587117e29bf50345be9f966 *DESCRIPTION
+99e74660c73f1a6c1a583192eff921f9 *DESCRIPTION
 04ec10e2a017f2962f24dd423ac7b4a6 *NAMESPACE
-bc41cd2c28c74fc87c35be4eee83215f *NEWS.md
+721f9e24808357e030506cf0b513bb1d *NEWS.md
 09170810e080ac5a77d4e84f36b5f255 *R/AffineTransformation-methods.R
 55afcba91caf3d6a1f2d1d79401f45e7 *R/Cartesian2DCoordinateTransformation-methods.R
 5be5c990c457ffbf42d746a22c69a43a *R/Class-AffineTransformation.R
 7299ed74a23b68f732e23bb710dbd70e *R/Class-Cartesian2DCoordinateTransformation.R
 22c15867d8e267a5138651d656ac0548 *R/Class-SimilarityTransformation.R
 7eeee223c437e1a043ee2ac28e7879ff *R/SimilarityTransformation-methods.R
-c9d88a7c32102cc3114da68ecc632928 *README.md
+4881706ad2cee030334d5f28a3697424 *README.md
 75b5e71479836d9f1e3121a405249392 *data/control.points.rda
 48677ad8320b6f195b7b96107a172e76 *man/AffineTransformation-class.Rd
 a3f58f1340e4ace165ce687cf6494857 *man/AffineTransformation.Rd
@@ -21,4 +21,4 @@ c7cac2cc72fdf5f6e0bf4463a8876aa4 *man/getRMSE.Rd
 121146b5ffd893076277ab522fa5ae7b *man/getResiduals.Rd
 34d95d5e5fc9c0fc86051c5d29dd4fd7 *man/plotGridTransformation.Rd
 5ed6ae989eab61d6ba61cb122fa90d9c *man/sample_data.Rd
-b7db65ac21d648e3246f33bc86199dce *man/vec2dtransf-package.Rd
+6807e335a3107a0965a7f3f5c69a82bb *man/vec2dtransf-package.Rd
